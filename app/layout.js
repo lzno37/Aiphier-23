@@ -14,9 +14,9 @@ const ManRopeN = Manrope({
 });
 
 export const metadata = {
-  title: "Atención al cliente 24/7 con agentes de IA | IACall",
+  title: "Automatizaciones con IA para crecer | Aiphier",
   description:
-    "Nunca pierdas una llamada. Agentes de voz IA a medida 24/7 con analíticas y notificaciones en tiempo real, integraciones y seguridad",
+    "Automatiza tareas y flujos de varios pasos, integra tus sistemas y decide con analíticas en tiempo real. Consultoría, despliegue y mejora continua.",
 };
 
 export default function RootLayout({ children }) {

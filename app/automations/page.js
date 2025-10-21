@@ -37,9 +37,9 @@ import Contact from "@/components/Contact";
 import ExploreSol from "@/components/ExploreSol";
 
 export const metadata = {
-  title: "Automatizaciones con IA para crecer | Aiphier",
+   title: "Atención al cliente 24/7 con agentes de IA | IACall",
   description:
-    "Automatiza tareas y flujos de varios pasos, integra tus sistemas y decide con analíticas en tiempo real. Consultoría, despliegue y mejora continua.",
+    "Nunca pierdas una llamada. Agentes de voz IA a medida 24/7 con analíticas y notificaciones en tiempo real, integraciones y seguridad",
 };
 
 export default function Home() {

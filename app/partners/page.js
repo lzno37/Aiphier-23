@@ -4,9 +4,7 @@ import PartnersSection from "@/components/PartnersSection";
 import PartContact from "@/components/PartContact";
 
 export const metadata = {
-  title: "Programa de Partners | Aiphier",
-  description:
-    "Innova tu negocio y potencia a tus clientes con agentes de voz IA y automatizaciones. Early access, soporte experto y oportunidades de co‑branding.",
+  title: "Aiphier",
 };
 
 export default function Partner() {

@@ -33,8 +33,7 @@
         "Box3Image": "/industry/Law/3.jpg"
       },
 
-      "metaTitle": "Agentes de IA para despachos de abogados | Aiphier",
-      "metaDesc": "Clasifica clientes, enruta por especialidad y gestiona citas y plazos con recordatorios. Integrado con tu software. Nunca pierdas un caso."
+      "metaTitle": "Aiphier"
     }
   },
   {
@@ -70,8 +69,7 @@
         "Box3Description": "Pre-evalúe arrendatarios potenciales recopilando información esencial, programando visitas a propiedades y respondiendo preguntas sobre disponibilidad, precios y términos de arrendamiento. Califique prospectos antes de que lleguen a su equipo de arrendamiento.",
         "Box3Image": "/industry/Property/3.jpg"
       },
-      "metaTitle": "Agentes IA para administradores de fincas y propiedades | Aiphier",
-      "metaDesc": "Incidencias, visitas y alquileres 24/7. Alertas al instante y tickets automáticos con tus herramientas. Mejora la experiencia del inquilino."
+     "metaTitle": "Aiphier"
     }
   },
   {
@@ -107,9 +105,7 @@
         "Box3Description": "Implemente sistemas de recordatorio multicanal vía SMS, correo electrónico y enlaces de comunicación personalizados. Reduzca drásticamente las ausencias y optimice la eficiencia de programación de su consulta.",
         "Box3Image": "/industry/Health/3.jpg"
       },
-      "metaTitle": "Agentes de IA para Clínicas y Hospitales | Aiphier",
-      "metaDesc": "Triaje y enrutado de urgencias, seguimiento de pacientes e integración con EHR. Recordatorios multicanal que reducen las ausencias."
-    }
+      "metaTitle": "Aiphier"    }
   },
   {
     "restaurant": {
@@ -145,8 +141,7 @@
         "Box3Description": "Elija de un extenso catálogo de voces en múltiples idiomas y acentos. Ya sea que maneje una trattoria italiana o un bistró francés, comuníquese auténticamente con sus clientes en su idioma preferido.",
         "Box3Image": "/industry/Restaurant/3.jpg"
       },
-      "metaTitle": "Agentes de IA para restaurantes | Aiphier",
-      "metaDesc": "Reservas, confirmaciones y lista de espera 24/7. Recordatorios que reducen las ausencias e integraciones rápidas. Atención multilingüe."
+        "metaTitle": "Aiphier"
     }
   }
 ]

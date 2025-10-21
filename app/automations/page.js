@@ -37,9 +37,7 @@ import Contact from "@/components/Contact";
 import ExploreSol from "@/components/ExploreSol";
 
 export const metadata = {
-   title: "Atención al cliente 24/7 con agentes de IA | IACall",
-  description:
-    "Nunca pierdas una llamada. Agentes de voz IA a medida 24/7 con analíticas y notificaciones en tiempo real, integraciones y seguridad",
+  title: "Aiphier",
 };
 
 export default function Home() {

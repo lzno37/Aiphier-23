@@ -14,9 +14,8 @@ const ManRopeN = Manrope({
 });
 
 export const metadata = {
-  title: "Automatizaciones con IA para crecer | Aiphier",
-  description:
-    "Automatiza tareas y flujos de varios pasos, integra tus sistemas y decide con analíticas en tiempo real. Consultoría, despliegue y mejora continua.",
+  title: "Aiphier",
+  
 };
 
 export default function RootLayout({ children }) {
